@@ -61,9 +61,12 @@ To develop a JOB BOARD PLATFORM with a comprehensive and efficient solution that
       • User Acceptance Testing
 
 ## F. Benchmarking
-  1. ex. Shopee
+  1. LinkedIn
 
 ## G. Estimated Project Duration:
 
+Prepared by: 
+Cano, Roerenz Joseph B.
+Idanan, Rodney C.
+Inductivo, Walter Mark B.
 
-Prepared by:
