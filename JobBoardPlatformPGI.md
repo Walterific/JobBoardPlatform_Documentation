@@ -65,4 +65,3 @@ To develop a JOB BOARD PLATFORM that will help manage the hiring process with th
 
 
 Prepared by:
-Hi
